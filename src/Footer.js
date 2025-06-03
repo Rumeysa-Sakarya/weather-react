@@ -21,7 +21,7 @@ export default function Footer() {
       </a>{" "}
       and{" "}
       <a
-        href="https://dazzling-belekoy-8e3179.netlify.app/"
+        href="https://prismatic-pastelito-5cd2da.netlify.app/"
         target="_blank"
         rel="noopener noreferrer"
       >
